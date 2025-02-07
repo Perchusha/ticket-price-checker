@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "ticket-price-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "playwright": "^1.50.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
